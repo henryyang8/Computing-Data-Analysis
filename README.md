@@ -1,1 +1,1 @@
-# GT_CSE6040
+# GT_Computing for Data Analysis
